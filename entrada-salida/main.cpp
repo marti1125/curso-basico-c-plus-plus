@@ -9,7 +9,7 @@ int main()
         esto es un comentario
     */
     int edad = 0;
-    cout << edad;
+    cout << edad << endl;
     cin >> edad;
-    cout << "tu edad es: " << edad;
+    cout << "tu edad es: " << edad << endl;
 }

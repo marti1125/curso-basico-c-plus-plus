@@ -14,5 +14,7 @@ int multiplicar(int a, int b = 2)
 
 int main()
 {
-    cout << multiplicar(200);
+    cout << "Sumar: " << suma(100, 200) << endl;
+    cout << "Multiplicar: " << multiplicar(200) << endl;
+    cout << "Multiplicar: " << multiplicar(200, 1000) << endl;
 }

@@ -6,6 +6,6 @@ int main()
 {   
     int a = 2;
     int b = 3;
-    int edades[] = { 24,20, 7 };
+    int edades[] = { 24, 20, 7 };
     cout << sizeof(edades) / sizeof(edades[0]);
 }
